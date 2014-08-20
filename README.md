@@ -24,7 +24,7 @@ see https://github.com/FbN/gimple
 
 ```
 dependencies {
-    compile 'com.github.gimple:Gimple:0.1.1'
+    compile 'com.github.gimple:Gimple:0.1.2'
 }
 ```
 
